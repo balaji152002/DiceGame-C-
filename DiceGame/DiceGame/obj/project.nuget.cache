@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQ32lwhApCA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BAKUMARE\\Documents\\Visual Studio 2022\\Project\\DiceGame\\DiceGame\\DiceGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BAKUMARE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.exe
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.dll
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.dll
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\BAKUMARE\Documents\Visual Studio 2022\Project\DiceGame\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
